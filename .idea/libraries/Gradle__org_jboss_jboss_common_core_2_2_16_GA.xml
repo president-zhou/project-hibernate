@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.jboss:jboss-common-core:2.2.16.GA">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/artifacts-14/filestore/org.jboss/jboss-common-core/2.2.16.GA/jar/7f1dd9a73a7909a9b8c40f557f2705c2a2c83fd5/jboss-common-core-2.2.16.GA.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/artifacts-14/filestore/org.jboss/jboss-common-core/2.2.16.GA/source/84041cfe5b0df5c30a4e472ee24338713983c1cd/jboss-common-core-2.2.16.GA-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

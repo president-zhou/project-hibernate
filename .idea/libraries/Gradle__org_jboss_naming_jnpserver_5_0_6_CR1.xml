@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.jboss.naming:jnpserver:5.0.6.CR1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/artifacts-14/filestore/org.jboss.naming/jnpserver/5.0.6.CR1/jar/675e4313f6d2e1b0edfd374f875a2d6bfb1051c3/jnpserver-5.0.6.CR1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/artifacts-14/filestore/org.jboss.naming/jnpserver/5.0.6.CR1/source/5365093b25d6fd1bbdffe1753af832ec4bf0a28/jnpserver-5.0.6.CR1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.jboss.byteman:byteman-bmunit:2.1.2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/artifacts-14/filestore/org.jboss.byteman/byteman-bmunit/2.1.2/jar/9ff4fc813f661ff38e86e626ba7d3ff76bbf0734/byteman-bmunit-2.1.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/artifacts-14/filestore/org.jboss.byteman/byteman-bmunit/2.1.2/source/2c0302e8626203b23cc62daab5730c880fca94aa/byteman-bmunit-2.1.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

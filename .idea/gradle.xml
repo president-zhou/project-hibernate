@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="LOCAL" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleHome" value="D:/gradle-1.1" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/buildSrc" />
+            <option value="$PROJECT_DIR$/documentation" />
+            <option value="$PROJECT_DIR$/hibernate-c3p0" />
+            <option value="$PROJECT_DIR$/hibernate-core" />
+            <option value="$PROJECT_DIR$/hibernate-ehcache" />
+            <option value="$PROJECT_DIR$/hibernate-entitymanager" />
+            <option value="$PROJECT_DIR$/hibernate-envers" />
+            <option value="$PROJECT_DIR$/hibernate-infinispan" />
+            <option value="$PROJECT_DIR$/hibernate-osgi" />
+            <option value="$PROJECT_DIR$/hibernate-proxool" />
+            <option value="$PROJECT_DIR$/hibernate-testing" />
+            <option value="$PROJECT_DIR$/release" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
